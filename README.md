@@ -1,1 +1,3 @@
-# twitter
+# Twitterのデータ処理について主にコードを書いています
+
+# 言語はPythonでTweepyやPandasなどを使うと思います
